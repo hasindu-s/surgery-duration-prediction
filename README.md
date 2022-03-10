@@ -2,7 +2,7 @@
 Arthroplasty knee surgery duration predicting model using RandomForestClassifier and statistical calculation approach
 
 ## Dataset
-I used [https://www.kaggle.com/toluoverscore/surgery-timing] dataset for this model. I hava decided to use only a one type of surgeries for this model and after analyzing selected Arthroplasty Knee surgery data
+I used [Surgery Timing](https://www.kaggle.com/toluoverscore/surgery-timing) dataset for this model. I hava decided to use only a one type of surgeries for this model and after analyzing selected Arthroplasty Knee surgery data
 
 ## Preprocessing
 Preprocessing is done in **Preprocessing** notebook
